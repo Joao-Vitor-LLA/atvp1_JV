@@ -1,0 +1,46 @@
+$date
+	Fri Sep 06 10:30:11 2024
+$end
+$version
+	Icarus Verilog
+$end
+$timescale
+	1ns
+$end
+$scope module atvp002_tb $end
+$var wire 1 ! TV $end
+$var wire 1 " PC $end
+$var wire 1 # AL $end
+$var reg 1 $ A $end
+$var reg 1 % B $end
+$scope module uut $end
+$var wire 1 $ A $end
+$var wire 1 " AL $end
+$var wire 1 % B $end
+$var wire 1 ! PC $end
+$var wire 1 # TV $end
+$upscope $end
+$upscope $end
+$enddefinitions $end
+$comment Show the parameter values. $end
+$dumpall
+$end
+#0
+$dumpvars
+0%
+0$
+0#
+1"
+0!
+$end
+#30
+0"
+1!
+1%
+#60
+0!
+1#
+1$
+#90
+0%
+#120

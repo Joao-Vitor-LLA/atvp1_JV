@@ -1,0 +1,42 @@
+$date
+	Fri Sep 06 10:05:48 2024
+$end
+$version
+	Icarus Verilog
+$end
+$timescale
+	1ns
+$end
+$scope module atvp001_tb $end
+$var wire 1 ! Verm_B $end
+$var wire 1 " Verm_A $end
+$var wire 1 # Verd_B $end
+$var wire 1 $ Verd_A $end
+$var reg 1 % A $end
+$scope module uut $end
+$var wire 1 % A $end
+$var wire 1 $ Verd_A $end
+$var wire 1 # Verd_B $end
+$var wire 1 " Verm_A $end
+$var wire 1 ! Verm_B $end
+$upscope $end
+$upscope $end
+$enddefinitions $end
+$comment Show the parameter values. $end
+$dumpall
+$end
+#0
+$dumpvars
+0%
+0$
+1#
+1"
+0!
+$end
+#30
+0"
+0#
+1$
+1!
+1%
+#60
